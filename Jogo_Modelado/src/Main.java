@@ -150,7 +150,7 @@ public class Main {
     
     public static int combate(Personagem p1, Arma_IF a1, Personagem p2, Arma_IF a2) {
         
-        Icon coracao = new ImageIcon("coracao.jpg");
+        Icon coracao = new ImageIcon("coracao.png");
         Icon trofeu = new ImageIcon("trofeu.png");
         int opcaoCombate;
         
