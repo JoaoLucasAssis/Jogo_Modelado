@@ -50,6 +50,8 @@
 
 ![image](https://user-images.githubusercontent.com/102986493/204612365-ffea2e03-5d92-448c-9444-3de1d7c40a90.png)
 
+##
+
 ### Desenvolvimento:
 - #### Após criar as classes e relacionamentos utlizamos a função 'Random()' para implementar a decisão de qual seria o personagem e qual seria sua arma, dado que o personagem ja foi sorteado. Novamente a função 'Random()' foi utlizada para definir a vida do personagem e para designar valores fixos aos danos de cada arma.
 
