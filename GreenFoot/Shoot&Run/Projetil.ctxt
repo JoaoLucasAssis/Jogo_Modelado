@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Projetil
+comment1.params=
+comment1.target=void\ disparar()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=public\ void\ trajetoria(){\r\n\ \ \ \ \ \ \ \ turnTowards(getWorldOfType(MyWorld.class).zumbi_Normal.getX(),\ getWorldOfType(MyWorld.class).zumbi_Normal.getY());\r\n\ \ \ \ \ \ \ \ move(3);\r\n}
+numComments=3
